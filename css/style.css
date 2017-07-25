@@ -373,19 +373,19 @@ a:link {
 }
 
 .slide:nth-child(1) {
-  background-image: url('/Users/macbook/Desktop/Работа/324979-nerds/img/slider-1.png');
+  background-image: url('../img/slider-1.png');
   background-repeat: no-repeat;
   background-position: 100% 13px;
 }
 
 .slide:nth-child(2) {
-  background-image: url('/Users/macbook/Desktop/Работа/324979-nerds/img/slider-2.png');
+  background-image: url('../img/slider-2.png');
   background-repeat: no-repeat;
   background-position: 100% 9px;
 }
 
 .slide:nth-child(3) {
-  background-image: url('/Users/macbook/Desktop/Работа/324979-nerds/img/slider-3.png');
+  background-image: url('../img/slider-3.png');
   background-repeat: no-repeat;
   background-position: 100% 10px;
 }
@@ -1616,6 +1616,7 @@ input[type="checkbox"]:checked + label span {
 .popup-overlay-show {
   display: block;
 }
+
 
 /* 1. INPUT FIELD */
 
